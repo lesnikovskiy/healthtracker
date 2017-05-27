@@ -1,6 +1,8 @@
-# Sportoholic
+# Health Tracker
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.4.
+Health Tracker app is intended to track your health state and sport activity.
+
+For devs: the app uses angular cli 
 
 ## Development server
 
